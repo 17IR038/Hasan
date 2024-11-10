@@ -20,24 +20,24 @@ I’m an experienced WordPress developer with a focus on high-converting e-comme
 
 ### 🚀 Featured Projects
 
-- **[E-commerce WordPress Site](https://github.com/YOUR_USERNAME/Project1)**: A custom-built WordPress e-commerce platform optimized for conversions, resulting in a 40% increase in organic growth.
-- **[Shopify SEO Optimization](https://github.com/YOUR_USERNAME/Project2)**: Developed and SEO-optimized a Shopify store, driving a 30% increase in traffic.
-- **[Custom WordPress Theme](https://github.com/YOUR_USERNAME/Project3)**: Designed and implemented a fully custom WordPress theme for a tech-focused blog, improving user engagement by 25%.
+- **[E-commerce WordPress Site](https://github.com/17IR038/Project1)**: A custom-built WordPress e-commerce platform optimized for conversions, resulting in a 40% increase in organic growth.
+- **[Shopify SEO Optimization](https://github.com/17IR038/Project2)**: Developed and SEO-optimized a Shopify store, driving a 30% increase in traffic.
+- **[Custom WordPress Theme](https://github.com/17IR038/Project3)**: Designed and implemented a fully custom WordPress theme for a tech-focused blog, improving user engagement by 25%.
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17IR038&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17IR038&layout=compact&theme=radical)
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Upwork](https://img.shields.io/badge/-Upwork-green?logo=Upwork)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hasanbsmrstuir/))
+[![Upwork](https://img.shields.io/badge/-Upwork-green?logo=Upwork)]([https://www.upwork.com/freelancers/~YOUR_UPWORK_ID](https://www.upwork.com/freelancers/~019a7c53056e6a7b49?viewMode=1))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?logo=google-chrome)]([https://YOUR_PORTFOLIO_URL](https://hasan.techconte.com/))
 
 ---
 
