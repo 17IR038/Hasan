@@ -35,9 +35,9 @@ I’m an experienced WordPress developer with a focus on high-converting e-comme
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hasanbsmrstuir/))
-[![Upwork](https://img.shields.io/badge/-Upwork-green?logo=Upwork)]([https://www.upwork.com/freelancers/~YOUR_UPWORK_ID](https://www.upwork.com/freelancers/~019a7c53056e6a7b49?viewMode=1))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?logo=google-chrome)]([https://YOUR_PORTFOLIO_URL](https://hasan.techconte.com/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/hasanbsmrstuir/)
+[![Upwork](https://img.shields.io/badge/-Upwork-green?logo=Upwork)](https://www.upwork.com/freelancers/~019a7c53056e6a7b49?viewMode=1)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?logo=google-chrome)](https://hasan.techconte.com/)
 
 ---
 
